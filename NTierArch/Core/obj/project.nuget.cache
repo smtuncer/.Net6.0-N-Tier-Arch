@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EUcUF9ZJJ4U8C10Un2xFDZAUsNfBaRnf+pY5a00w1S6Nb1rhVVqCwdi66o6rbLtNVq1J00KxZ6mBV7lhRH1ZRA==",
+  "dgSpecHash": "FodFkybmfjxyGjwVgp2F6v+sflYvMPwSYcpfHSuNSeC+FcdYpb9gK3edZS5cDEpIr4/IVvhhTWsktWHo7PJOIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\KİŞİSEL PROJELER\\NTierArch\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\PROJELER\\NTier\\NTierArch\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smtun\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\smtun\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

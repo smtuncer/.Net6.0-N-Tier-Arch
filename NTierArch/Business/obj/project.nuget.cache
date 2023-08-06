@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jFHFm/MI1Q/3K6qGPkdH2d97iWyoaxZiKPg9Jb3esfFoFuYd7YkT2UHU/hvxodXDWM71cFkkyDqtB2AmBNRH7g==",
+  "dgSpecHash": "L30LJe77oBfpb2vhd3sKIs5sAZydriezXiPojZUkud5f6ooFWeL7E0QdfMJtOFvs7OY6Hoj0fup2+svgGrBawQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\KİŞİSEL PROJELER\\NTierArch\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\PROJELER\\NTier\\NTierArch\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smtun\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
     "C:\\Users\\smtun\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.1\\autofac.extras.dynamicproxy.6.0.1.nupkg.sha512",

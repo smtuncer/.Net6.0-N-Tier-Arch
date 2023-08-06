@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9BUl9krdQBvEfjDxExC/CYbBbZEF9jUyBAvGKtyyO5GyooJiJLCntpO+YkDZxVA3wW0c5/ucLPPLJJBckdBLlw==",
+  "dgSpecHash": "kYXXCwmw56nZihKusAHJ/49BWoQ7Q4TzNaoZ0byTiysHj/TKbBG/kMU6Iab+K0YnxGIt1l+/iKL7fYCWaw+ybA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\KİŞİSEL PROJELER\\NTierArch\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\PROJELER\\NTier\\NTierArch\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smtun\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
     "C:\\Users\\smtun\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

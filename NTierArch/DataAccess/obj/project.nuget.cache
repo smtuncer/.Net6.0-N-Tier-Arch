@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9zSqjwi3G9rp/SUcI3CkX/orgNi/4UUr8+Os2MUOTwkqnWYJDw3zPXZIA+CiNyi4Nqvkvk6jH6uQl5ISKSLKJQ==",
+  "dgSpecHash": "OReY00U2Gt908Ej2nw7Tlaf7wp88Y8KeH2WfFnVrGGKkrE742Gw2VvNbqvSGsvt3QdRbRzBcy0JkBFeT+bg3WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\KİŞİSEL PROJELER\\NTierArch\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\PROJELER\\NTier\\NTierArch\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smtun\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\smtun\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

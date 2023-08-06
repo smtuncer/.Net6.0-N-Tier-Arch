@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mNDiQ6USB0eXwcpWdAX4LzzZ3eMDdrMgjD7b8elCMAKZ/+Pw4AA90LHjQesi/iZ5G6QEEA2niVIvK7FzRNWU2Q==",
+  "dgSpecHash": "0ZKYKsuN55/GP+m6RKsVbF1tuBIuVW8B3YZcyZrO57uUsON68j7A3MJMQI5ANEfxtYC/jFrH8E1izZA/KOqRHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\KİŞİSEL PROJELER\\NTierArch\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\smtun\\Desktop\\SELÇUK\\YAZILIM & BİLGİSAYAR\\PROJELER\\NTier\\NTierArch\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smtun\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\smtun\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
